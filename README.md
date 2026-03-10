@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @ShiwamKumar2208
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate with any new project to which I can contribute to
-- 
+# Hi 👋 I'm Shark
+
+Student developer passionate about building real-world projects and exploring how software works under the hood.
+
+## 🚀 Current Projects
+- Git Implementation
+- BitTorrent Client
+- Realtime Chat Application
+- Network Speed Test Tool
+
+## 🧠 What I Enjoy
+- Systems Programming
+- Networking
+- Building tools from scratch
+- Learning new technologies
+
+## 🛠 Tech Stack
+C • Python • JavaScript • HTML • CSS • Linux
+
+## 📫 Contact
+Portfolio: https://yourportfolio.com  
+Email: shark.sk1154@gmail.com
+
+
 - 📫 How to reach me :- ([https://shiwamkumar.netlify.app/]) -- Website by me
 -     Contact me there or by any other social media mentioned there
 
