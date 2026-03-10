@@ -18,7 +18,6 @@ Student developer passionate about building real-world projects and exploring ho
 C • Python • JavaScript • HTML • CSS • Linux
 
 ## 📫 Contact
-Portfolio: https://yourportfolio.com  
 Email: shark.sk1154@gmail.com
 
 
