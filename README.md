@@ -2,11 +2,11 @@
 
 Student developer passionate about building real-world projects and exploring how software works under the hood.
 
-## 🚀 Current Projects
-- Git Implementation
-- BitTorrent Client
-- Realtime Chat Application
-- Network Speed Test Tool
+## 🚀 Major Projects
+- Swipe App
+- Scales App
+- Kaju Barfi
+- NetMeter
 
 ## 🧠 What I Enjoy
 - Systems Programming
@@ -15,7 +15,7 @@ Student developer passionate about building real-world projects and exploring ho
 - Learning new technologies
 
 ## 🛠 Tech Stack
-C • Python • JavaScript • HTML • CSS • Linux
+C • Python • JavaScript • HTML • CSS • Linux • Flutter
 
 ## 📫 Contact
 Email: shark.sk1154@gmail.com
