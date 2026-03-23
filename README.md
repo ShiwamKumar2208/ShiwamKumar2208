@@ -15,7 +15,7 @@ Student developer passionate about building real-world projects and exploring ho
 - Learning new technologies
 
 ## 🛠 Tech Stack
-C • Python • JavaScript • HTML • CSS • Linux • Flutter
+C • C++ • Python • JavaScript • HTML • CSS • Linux • Flutter
 
 ## 📫 Contact
 Email: shark.sk1154@gmail.com
