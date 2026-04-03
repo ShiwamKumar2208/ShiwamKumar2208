@@ -3,10 +3,12 @@
 Student developer passionate about building real-world projects and exploring how software works under the hood.
 
 ## 🚀 Major Projects
-- Swipe App
-- Scales App
-- Kaju Barfi
-- NetMeter
+- Swipe App      U care about ur storage? if yes - then u will love it
+- Scales App     A seperte gallery which respects privacy
+- Kaju Barfi     A subscription free thinkpad
+- Solace         An ad free fitness app
+- NetMeter       fast.com but better
+- Chyra          Speak, Vanish, Repeat
 
 ## 🧠 What I Enjoy
 - Systems Programming
@@ -15,7 +17,7 @@ Student developer passionate about building real-world projects and exploring ho
 - Learning new technologies
 
 ## 🛠 Tech Stack
-C • C++ • Python • JavaScript • HTML • CSS • Linux • Flutter
+Linux • C++ • Python • Sass/Scss • JavaScript • Flutter • React JS
 
 ## 📫 Contact
 Email: shark.sk1154@gmail.com
@@ -23,8 +25,3 @@ Email: shark.sk1154@gmail.com
 
 - 📫 How to reach me :- ([https://shiwamkumar.netlify.app/]) -- Website by me
 -     Contact me there or by any other social media mentioned there
-
-<!---
-ShiwamKumar2208/ShiwamKumar2208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
