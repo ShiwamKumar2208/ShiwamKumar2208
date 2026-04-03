@@ -3,12 +3,12 @@
 Student developer passionate about building real-world projects and exploring how software works under the hood.
 
 ## 🚀 Major Projects
-- Swipe App      U care about ur storage? if yes - then u will love it
-- Scales App     A seperte gallery which respects privacy
-- Kaju Barfi     A subscription free thinkpad
-- Solace         An ad free fitness app
-- NetMeter       fast.com but better
-- Chyra          Speak, Vanish, Repeat
+- Swipe App
+- Scales App 
+- Kaju Barfi
+- Solace    
+- NetMeter  
+- Chyra     
 
 ## 🧠 What I Enjoy
 - Systems Programming
