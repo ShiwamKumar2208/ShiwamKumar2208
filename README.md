@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShiwamKumar2208&color=0e75b6&label=Profile+Views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=ShiwamKumar2208&color=0e75b6&label=Profile+Views" /> - 693   ( I cheated that with a python script ) -->
 </p>
 
 ## 💫 About Me
